@@ -2,7 +2,8 @@
 
 A modern, neon-styled take on the classic Pac-Man game, built with HTML5 Canvas and JavaScript.
 
-![Neon Pac-Attack](https://i.imgur.com/example.png) <!-- Consider adding a screenshot here -->
+## Design
+<img width="574" alt="Screenshot 2025-04-02 130941" src="https://github.com/user-attachments/assets/11e77988-4cc4-437e-ae5c-39cb73c3e10e" />
 
 ## Game Overview
 
