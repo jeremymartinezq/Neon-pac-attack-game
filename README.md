@@ -7,7 +7,7 @@ A modern, neon-styled take on the classic Pac-Man game, built with HTML5 Canvas 
 
 ## Game Overview
 
-Neon Pac-Attack is a browser-based arcade game that combines the classic gameplay of Pac-Man with vibrant neon visuals and additional modern mechanics. Navigate through a randomly generated maze, collect dots, avoid enemies, and use power-ups to turn the tables on your pursuers.
+Neon Pac-Attack is a browser-based arcade game inspired by the classic gameplay of Pac-Man with vibrant neon visuals and additional modern mechanics. Navigate through a randomly generated maze, collect dots, avoid enemies, and use power-ups to turn the tables on your pursuers.
 
 ## Features
 
